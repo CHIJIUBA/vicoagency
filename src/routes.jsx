@@ -6,7 +6,7 @@ const routes = [
         element: <Home />,
     },
     {
-        path: "/home",
+        path: "home",
         element: <Home />,
     }
 ];
